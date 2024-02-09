@@ -1,6 +1,4 @@
-# Data Scientist
-
-#### Technical Skills:
+## Technical Skills:
 
 - Familiar with :
   Python | Ballerina | C++ | Javascript | HTML/CSS | ReactJS | Typescript
@@ -28,15 +26,15 @@
 
 ## Work Experience
 
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Software Engineering Intern @ WSO2| February, 2023 - August, 2023**
 
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+### Intern Project : Integration of ServiceNow as an incident management system for Choreo Delivery Insights dashboard for DORA metrics.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Developed an incident scraper for ServiceNow.
+- Integrated the scraped incident data with the relevant databases in Azure Data Explorer and retrieved those data using REST API.
+- Worked on the Choreo console section that integrates ServiceNow to the Delivery Insights dashboard and deletes the integrated incident management system.
+- Made the proposal, detailed designs and documentation related to the ServiceNow integration.
+- Leveraged knowledge in : React, Typescript , Ballerina, Docker, GitHub, Kubernetes, OAuth authentication, Postman, UI/UX design, Writing test cases, Azure pipelines, JDBC driver, mssql database, WSL, code reviewing and adding log alerts
 
 ## Projects
 
