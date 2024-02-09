@@ -1,3 +1,5 @@
+# CHAMALI VISHMANI
+
 ## Technical Skills:
 
 - Familiar with :
@@ -12,7 +14,7 @@
 
 ## Education
 
-- Bsc Hons . Computer Engineering | University of Sri Jayewardenepura
+- Bsc Hons . Computer Engineering : University of Sri Jayewardenepura
 
   - Expected Graduation : June,2024
   - Minor : Data Management
@@ -49,30 +51,28 @@ A web application which provides insight on times and locations a driver could g
   Update the models and insights periodically with new rides.
 - Utilized : ReactJS ,MongoDB ,Python, jupyter notebook, flask ,REST APIs
 
-[GitHub](https://github.com/ChamaliVishmani/Next-Trip)
+- [Next Trip - GitHub](https://github.com/ChamaliVishmani/Next-Trip)
 
 ### Colombo National Museum Object Detection
 
 - Detects the unlabelled garments in the colombo national museum and gives descriptions on them. Done with the images and data obtained from the Colombo National Museum with permission. (An In progress project)
 - Utilized : JavaScript, python, jupyter notebook, object detection principles, IBM Cloud Object Storage Instances, Vercel
 
-[GitHub](https://github.com/ChamaliVishmani/museum-scanner)
-
-<!-- ![Museum](/assets/imgs/museum.jpg) -->
+- [Colombo National Museum Object Detection - GitHub](https://github.com/ChamaliVishmani/museum-scanner)
 
 ### Thriftee
 
 - A mobile application that can be used by its users to sell and purchase items. This provides small businesses a cost-effective platform to conduct their business and other users a way to make a small income
 - Utilized : JavaScript, React Native, Firebase
 
-[GitHub](https://github.com/ChamaliVishmani/museum-scanner)
+- [Thriftee - GitHub](https://github.com/ChamaliVishmani/museum-scanner)
 
 ### Sudoku Solver
 
 - Sudoku/ Hexadoku solver using openCV
 - Utilized : Python, OpenCV
 
-[GitHub](https://github.com/ChamaliVishmani/Sudoku_Solver)
+- [Sudoku Solver - GitHub](https://github.com/ChamaliVishmani/Sudoku_Solver)
 
 ## Medium Blog
 
