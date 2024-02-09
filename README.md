@@ -36,7 +36,7 @@
 - Made the proposal, detailed designs and documentation related to the ServiceNow integration.
 - Leveraged knowledge in : React, Typescript , Ballerina, Docker, GitHub, Kubernetes, OAuth authentication, Postman, UI/UX design, Writing test cases, Azure pipelines, JDBC driver, mssql database, WSL, code reviewing and adding log alerts
 
-## Projects
+## Software Projects
 
 ### Next Trip
 
@@ -66,6 +66,13 @@ A web application which provides insight on times and locations a driver could g
 - Utilized : JavaScript, React Native, Firebase
 
 [GitHub](https://github.com/ChamaliVishmani/museum-scanner)
+
+### Sudoku Solver
+
+- Sudoku/ Hexadoku solver using openCV
+- Utilized : Python, OpenCV
+
+[GitHub](https://github.com/ChamaliVishmani/Sudoku_Solver)
 
 ## Medium Blog
 
