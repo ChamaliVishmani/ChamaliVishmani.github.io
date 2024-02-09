@@ -1,12 +1,30 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:
+
+- Familiar with :
+  Python | Ballerina | C++ | Javascript | HTML/CSS | ReactJS | Typescript
+  GitHub | ServiceNow
+  MongoDB | Firebase | MSSql
+  REST API | OOP | Unit Testing
+  Frontend | Backend
+  Azure data explorer | Azure pipelines
+  Docker | Kubernetes
+  Machine Learning | Object detection | openCV | Generative AI | Conversational AI
 
 ## Education
 
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)
-- M.S., Physics | The University of Texas at Dallas (_December 2019_)
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bsc Hons . Computer Engineering | Expected Graduation : June,2024
+
+  - University of Sri Jayewardenepura
+  - Minor : Data Management
+  - GPA : 3.85
+  - Dean's List : Semester 04
+  - Completed University-level Coursework : Programming for Engineers, Data Structures and Algorithms, Advanced Algorithms, Object Oriented Programming, Computer Organization, Operating Systems, Database Systems, Software Engineering, Management Information Systems, Data Communication, Computer Networks, Computer Security, Information Security, Quality Engineering, Natural Language Processing, Data Mining, Intelligent systems, Parallel Programming, Computer Vision and Image Processing, Technical Writing
+
+- CIMA Dip MA
+  - Currently pursuing the management level
+  - CIMA reference Number : 1-4DQF0YV
 
 ## Work Experience
 
