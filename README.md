@@ -1,5 +1,8 @@
 # CHAMALI VISHMANI
 
+[LinkedIn](https://www.linkedin.com/in/chamali-vishmani-221344202/)
+[GitHub](https://github.com/ChamaliVishmani)
+
 ## Technical Skills:
 
 - Familiar with :
@@ -11,6 +14,18 @@
   Azure data explorer | Azure pipelines
   Docker | Kubernetes
   Machine Learning | Object detection | openCV | Generative AI | Conversational AI
+
+## Work Experience
+
+**Software Engineering Intern @ WSO2 (February, 2023 - August, 2023)**
+
+#### Intern Project : Integration of ServiceNow as an incident management system for Choreo Delivery Insights dashboard for DORA metrics.
+
+- Developed an incident scraper for ServiceNow.
+- Integrated the scraped incident data with the relevant databases in Azure Data Explorer and retrieved those data using REST API.
+- Worked on the Choreo console section that integrates ServiceNow to the Delivery Insights dashboard and deletes the integrated incident management system.
+- Made the proposal, detailed designs and documentation related to the ServiceNow integration.
+- Leveraged knowledge in : React, Typescript , Ballerina, Docker, GitHub, Kubernetes, OAuth authentication, Postman, UI/UX design, Writing test cases, Azure pipelines, JDBC driver, mssql database, WSL, code reviewing and adding log alerts
 
 ## Education
 
@@ -25,18 +40,6 @@
 - CIMA Dip MA
   - Currently pursuing the management level
   - CIMA reference Number : 1-4DQF0YV
-
-## Work Experience
-
-**Software Engineering Intern @ WSO2 (February, 2023 - August, 2023)**
-
-#### Intern Project : Integration of ServiceNow as an incident management system for Choreo Delivery Insights dashboard for DORA metrics.
-
-- Developed an incident scraper for ServiceNow.
-- Integrated the scraped incident data with the relevant databases in Azure Data Explorer and retrieved those data using REST API.
-- Worked on the Choreo console section that integrates ServiceNow to the Delivery Insights dashboard and deletes the integrated incident management system.
-- Made the proposal, detailed designs and documentation related to the ServiceNow integration.
-- Leveraged knowledge in : React, Typescript , Ballerina, Docker, GitHub, Kubernetes, OAuth authentication, Postman, UI/UX design, Writing test cases, Azure pipelines, JDBC driver, mssql database, WSL, code reviewing and adding log alerts
 
 ## Software Projects
 
