@@ -1,7 +1,8 @@
 # CHAMALI VISHMANI
 
-[LinkedIn](https://www.linkedin.com/in/chamali-vishmani-221344202/)
-[GitHub](https://github.com/ChamaliVishmani)
+### [LinkedIn](https://www.linkedin.com/in/chamali-vishmani-221344202/)
+
+### [GitHub](https://github.com/ChamaliVishmani)
 
 ## Technical Skills:
 
