@@ -38,13 +38,18 @@
 
 ## Projects
 
-### Data-Driven EEG Band Discovery with Decision Trees
+### Next Trip
 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+A web application which provides insight on times and locations a driver could get more rides based on past rides data
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Give driver a location where they are highly likely to get a ride according to day and time and location of the driver.
+- Processes the data and make a model to predict the rider location according to time using RandomForestRegressor
+- Give a heat map of rides to show how the demand spreads.
+- Give insights of rider pickups by day and hour.
+  Update the models and insights periodically with new rides.
+- Utilized : ReactJS ,MongoDB ,Python, jupyter notebook, flask ,REST APIs
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![GitHub](https://github.com/ChamaliVishmani/Next-Trip)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 
