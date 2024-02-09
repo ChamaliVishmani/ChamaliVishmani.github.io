@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Chamali Vishmani Portfolio
+description: Information and projects
+logo: /assets/imgs/official_photo.jpeg
+show_downloads: true
