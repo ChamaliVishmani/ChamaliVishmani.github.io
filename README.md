@@ -28,7 +28,7 @@
 
 **Software Engineering Intern @ WSO2 (February, 2023 - August, 2023)**
 
-### Intern Project : Integration of ServiceNow as an incident management system for Choreo Delivery Insights dashboard for DORA metrics.
+#### Intern Project : Integration of ServiceNow as an incident management system for Choreo Delivery Insights dashboard for DORA metrics.
 
 - Developed an incident scraper for ServiceNow.
 - Integrated the scraped incident data with the relevant databases in Azure Data Explorer and retrieved those data using REST API.
@@ -58,6 +58,15 @@ A web application which provides insight on times and locations a driver could g
 
 [GitHub](https://github.com/ChamaliVishmani/museum-scanner)
 
-![Bike Study](/assets/imgs/museum.jpg)
+<!-- ![Museum](/assets/imgs/museum.jpg) -->
+
+### Thriftee
+
+- A mobile application that can be used by its users to sell and purchase items. This provides small businesses a cost-effective platform to conduct their business and other users a way to make a small income
+- Utilized : JavaScript, React Native, Firebase
+
+[GitHub](https://github.com/ChamaliVishmani/museum-scanner)
+
+## Medium Blog
 
 - [Medium Blog](https://medium.com/@chamali_vishmani)
