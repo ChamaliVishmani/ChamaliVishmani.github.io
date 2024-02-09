@@ -12,9 +12,9 @@
 
 ## Education
 
-- Bsc Hons . Computer Engineering | Expected Graduation : June,2024
+- Bsc Hons . Computer Engineering | University of Sri Jayewardenepura
 
-  - University of Sri Jayewardenepura
+  - Expected Graduation : June,2024
   - Minor : Data Management
   - GPA : 3.85
   - Dean's List : Semester 04
