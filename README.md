@@ -78,6 +78,13 @@ A web application which provides insight on times and locations a driver could g
 
 - [Sudoku Solver - GitHub](https://github.com/ChamaliVishmani/Sudoku_Solver)
 
+### Marvel Stories
+
+- Uses the marvel API to retrieve the stories of a user given character and gives the title and description of each story
+- Utilized : ReactJS, Chakra UI components, Marvel API
+
+- [Marvel Stories - GitHub](https://github.com/ChamaliVishmani/marvel_stories)
+
 ## Medium Blog
 
 - [Medium Blog](https://medium.com/@chamali_vishmani)
