@@ -62,7 +62,7 @@ A web application which provides insight on times and locations a driver could g
 - Detects the unlabelled garments in the colombo national museum and gives descriptions on them. Done with the images and data obtained from the Colombo National Museum with permission. (An In progress project)
 - Utilized : JavaScript, python, jupyter notebook, object detection principles, IBM Cloud Object Storage Instances, Vercel
 
-- [Colombo National Museum Object Detection - GitHub](https://github.com/ChamaliVishmani/museum-scanner)
+- [Colombo National Museum Object Detection - GitHub](https://github.com/ChamaliVishmani/museum-object-detection)
 
 ### Thriftee
 
