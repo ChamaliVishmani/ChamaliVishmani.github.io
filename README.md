@@ -4,6 +4,60 @@
 
 - [GitHub](https://github.com/ChamaliVishmani)
 
+## Software Projects
+
+### Next Trip
+
+A web application which provides insight on times and locations a driver could get more rides based on past rides data
+
+- Give driver a location where they are highly likely to get a ride according to day and time and location of the driver.
+- Processes the data and make a model to predict the rider location according to time using RandomForestRegressor
+- Give a heat map of rides to show how the demand spreads.
+- Give insights of rider pickups by day and hour.
+  Update the models and insights periodically with new rides.
+- Utilized : ReactJS ,MongoDB ,Python, jupyter notebook, flask ,REST APIs
+
+- [Next Trip - GitHub](https://github.com/ChamaliVishmani/Next-Trip)
+
+### Colombo National Museum Object Detection
+
+- Detects the unlabelled garments in the colombo national museum and gives descriptions on them. Done with the images and data obtained from the Colombo National Museum with permission. (An In progress project)
+- Utilized : JavaScript, python, jupyter notebook, object detection principles, IBM Cloud Object Storage Instances, Vercel
+
+- [Colombo National Museum Object Detection - GitHub](https://github.com/ChamaliVishmani/museum-object-detection)
+
+### Thriftee
+
+- A mobile application that can be used by its users to sell and purchase items. This provides small businesses a cost-effective platform to conduct their business and other users a way to make a small income
+- Utilized : JavaScript, React Native, Firebase
+
+- [Thriftee - GitHub](https://github.com/ChamaliVishmani/museum-scanner)
+
+### Ask your reference book
+
+- Upload your reference book and ask questions from it.
+
+- [Ask your reference book - GitHub](https://github.com/ChamaliVishmani/Ask-your-reference-book)
+
+
+### Sudoku Solver
+
+- Sudoku/ Hexadoku solver using openCV
+- Utilized : Python, OpenCV
+
+- [Sudoku Solver - GitHub](https://github.com/ChamaliVishmani/Sudoku_Solver)
+
+### Marvel Stories
+
+- Uses the marvel API to retrieve the stories of a user given character and gives the title and description of each story
+- Utilized : ReactJS, Chakra UI components, Marvel API
+
+- [Marvel Stories - GitHub](https://github.com/ChamaliVishmani/marvel_stories)
+
+## Medium Blog
+
+- [Medium Blog](https://medium.com/@chamali_vishmani)
+
 ## Technical Skills:
 
 - Familiar with :
@@ -41,50 +95,3 @@
 - CIMA Dip MA
   - Currently pursuing the management level
   - CIMA reference Number : 1-4DQF0YV
-
-## Software Projects
-
-### Next Trip
-
-A web application which provides insight on times and locations a driver could get more rides based on past rides data
-
-- Give driver a location where they are highly likely to get a ride according to day and time and location of the driver.
-- Processes the data and make a model to predict the rider location according to time using RandomForestRegressor
-- Give a heat map of rides to show how the demand spreads.
-- Give insights of rider pickups by day and hour.
-  Update the models and insights periodically with new rides.
-- Utilized : ReactJS ,MongoDB ,Python, jupyter notebook, flask ,REST APIs
-
-- [Next Trip - GitHub](https://github.com/ChamaliVishmani/Next-Trip)
-
-### Colombo National Museum Object Detection
-
-- Detects the unlabelled garments in the colombo national museum and gives descriptions on them. Done with the images and data obtained from the Colombo National Museum with permission. (An In progress project)
-- Utilized : JavaScript, python, jupyter notebook, object detection principles, IBM Cloud Object Storage Instances, Vercel
-
-- [Colombo National Museum Object Detection - GitHub](https://github.com/ChamaliVishmani/museum-object-detection)
-
-### Thriftee
-
-- A mobile application that can be used by its users to sell and purchase items. This provides small businesses a cost-effective platform to conduct their business and other users a way to make a small income
-- Utilized : JavaScript, React Native, Firebase
-
-- [Thriftee - GitHub](https://github.com/ChamaliVishmani/museum-scanner)
-
-### Sudoku Solver
-
-- Sudoku/ Hexadoku solver using openCV
-- Utilized : Python, OpenCV
-
-- [Sudoku Solver - GitHub](https://github.com/ChamaliVishmani/Sudoku_Solver)
-
-### Marvel Stories
-
-- Uses the marvel API to retrieve the stories of a user given character and gives the title and description of each story
-- Utilized : ReactJS, Chakra UI components, Marvel API
-
-- [Marvel Stories - GitHub](https://github.com/ChamaliVishmani/marvel_stories)
-
-## Medium Blog
-
-- [Medium Blog](https://medium.com/@chamali_vishmani)
